@@ -3,10 +3,11 @@
 \contentsline {section}{\numberline {1}Ziel}{3}{section.1}% 
 \contentsline {section}{\numberline {2}Theorie}{3}{section.2}% 
 \contentsline {subsection}{\numberline {2.1}Helmholtzspulen}{4}{subsection.2.1}% 
-\contentsline {section}{\numberline {3}Durchführung}{4}{section.3}% 
-\contentsline {subsection}{\numberline {3.1}Vermessung von Spulen/Magnetfeld von Spulen}{4}{subsection.3.1}% 
-\contentsline {subsection}{\numberline {3.2}Vermessung von Helmholtzspulen/Magnetfeld eines Spulenpaares}{4}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {2.2}Hysteresekurve}{4}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}Durchführung}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Vermessung von Spulen/Magnetfeld von Spulen}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Vermessung von Helmholtzspulen/Magnetfeld eines Spulenpaares}{5}{subsection.3.2}% 
 \contentsline {subsection}{\numberline {3.3}Hysteresekurve}{5}{subsection.3.3}% 
-\contentsline {section}{\numberline {4}Auswertung}{5}{section.4}% 
-\contentsline {section}{\numberline {5}Diskussion}{8}{section.5}% 
-\contentsline {section}{\nonumberline Literatur}{8}{section*.6}% 
+\contentsline {section}{\numberline {4}Auswertung}{6}{section.4}% 
+\contentsline {section}{\numberline {5}Diskussion}{9}{section.5}% 
+\contentsline {section}{\nonumberline Literatur}{9}{section*.6}% 
