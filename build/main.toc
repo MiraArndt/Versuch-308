@@ -8,6 +8,9 @@
 \contentsline {subsection}{\numberline {2.2}Vermessung von Helmholtzspulen/Magnetfeld eines Spulenpaares}{5}{subsection.2.2}% 
 \contentsline {subsection}{\numberline {2.3}Hysteresekurve}{5}{subsection.2.3}% 
 \contentsline {section}{\numberline {3}Auswertung}{6}{section.3}% 
-\contentsline {section}{\numberline {4}Diskussion}{11}{section.4}% 
-\contentsline {section}{\numberline {5}Anhang}{11}{section.5}% 
-\contentsline {section}{\nonumberline Literatur}{15}{section*.13}% 
+\contentsline {subsection}{\numberline {3.1}Magnetische Flußdichte zweier Spulen}{6}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Magnetische Flußdichte eines Helmholzspulenpaares}{8}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Hysteresekurve einer Spule mit Eisenkern}{8}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}Diskussion}{13}{section.4}% 
+\contentsline {section}{\numberline {5}Anhang}{13}{section.5}% 
+\contentsline {section}{\nonumberline Literatur}{17}{section*.13}% 
