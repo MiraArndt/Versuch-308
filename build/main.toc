@@ -1,0 +1,17 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Ziel}{3}{section.1}% 
+\contentsline {section}{\numberline {2}Theorie}{3}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Helmholtzspulen}{4}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Hysteresekurve}{4}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}Durchführung}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Vermessung von Spulen/Magnetfeld von Spulen}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Vermessung von Helmholtzspulen/Magnetfeld eines Spulenpaares}{6}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Hysteresekurve}{7}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}Auswertung}{9}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Magnetische Flußdichte zweier Spulen}{9}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Magnetische Flußdichte eines Helmholzspulenpaares}{11}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Hysteresekurve einer Spule mit Eisenkern}{13}{subsection.4.3}% 
+\contentsline {section}{\numberline {5}Diskussion}{14}{section.5}% 
+\contentsline {section}{\numberline {6}Anhang}{17}{section.6}% 
+\contentsline {section}{\nonumberline Literatur}{21}{section*.19}% 
