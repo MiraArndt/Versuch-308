@@ -39,6 +39,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Versuch zum Literaturverzeichnis}
       \field{year}{2014}
+      \true{nocite}
     \endentry
     \entry{matplotlib}{article}{}
       \name{author}{1}{}{%
