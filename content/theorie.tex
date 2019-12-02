@@ -1,4 +1,97 @@
 \section{Theorie}
 \label{sec:Theorie}
 
+Verweis auf Konstanten
+
+Magnetfelder werden durch bewegte elektrische Ladungen hervorrufen. Der magnetische Fluss B wird in der Einheit Tesla 
+angegeben und 
+
+
+Da bewegte Ladungen magnetische Felder hervorrufen, lässt sich auch um stromdurchflossene Leiter ein 
+magnetisches Feld messen, welches sich mithilfe von konzentrischen Kreisen, die senkrecht zum Leiter 
+stehen, darstellen lässt.
+Die magnetische Flussdichte B um eine beliebig geschlossene Leiterschleife lässt sich mithilfe des Biot-Savart-Gesetzes
+\begin{equation}
+    d\vec B = \frac{\mu_0 I}{4 \pi} \frac{d\vec s \times \vec r}{r^3}
+    \label{eq:2} 
+\end{equation}
+\noindent
+im Abstand r berechnen. Mithilfe dieser Formel lässt sich die magnetische Flussdichte auf einer Geraden, die durch den 
+Mittelpunkt einer Leiterschleife/Ring verläuft ermitteln. Aus der Gleichung \ref{eq:1} ergibt sich 
+\begin{equation}
+    \vec B (x) = \frac{mu_0 I}{2} \frac{R^2}{(R^2+x^2)}^\frac{3}{2} \^{x},
+\end{equation}
+\noindent
+wobei R den Radius des Ringes und x 
+Liegt an Stelle eines Ringes eine Spule vor, so kann das Ergebnis mit der Windungszahl n multipliueirt werden.
+
+
+
+Für den Fall, dass eine langegestreckte Spule mit l \gg D vorliegt, so verlaufen die Feldlinien 
+innerhalb dieser parallel zueinander, was bedeutet, dass die magnetische Flussdichte homogen 
+ist und sich dessen Betrag mit der Formel
+\begin{equation}
+    B = \mu_r \mu_0 \frac{n}{l} I
+\end{equation}
+\noindent 
+berechnen lässt, wobei deutlich wird, dass die magnetische Flussdichte sowohl zu der Stromstärke I, 
+als auch zu der Windungszahl n proportional und zu der Spulenlänge l umgekehrt proportional ist.
+
+Für den Fall, dass eine Ringspule vorliegt, dessen Spulenradius r deutlich kleiner ist, als dessen Länge, lässt sich
+der Betrag B mit der FOmel berechnen. Auch hier ist B iinen homogen, nur außen dieses mal null.
+
+\subsection{Helmholtzspulen}
+
+Um ein möglichst homogenes Magnetfeld zu erhalten, werden zwei identische Spulen mit dem Radius R und der Windungszahl N 
+so aufgestellt, dass die Verbindungslinie der Spulenmittelpunkte senkrecht zu den Spulen selbst steht. Wird der Abstand 
+der Spulen so eingestellt, dass dieser dem Radius R entspricht, so ergibt sich auf der Verbindungslinie der 
+Spulenmittelpunkte ein homogenes Magnetfeld, für das sich die magnetische Flussdichte im Mittelpunkt der Spulen durch
+die Überlagerung der einzelnen Felder ergibt. 
+Weicht der Abstand der Spulen zueinander von dem Wert R ab, so ergibt sich der Wert für den magnetischen Fluss B im 
+Mittelpunkt von zwei Spulen mit je einer Windung durch die Gleichung
+\begin{equation}
+    B(0) = B_1(x) + B_1(-x) = \frac{\mu_0 I R^2}{(R^2 + x^2)^(\frac{3}{2})},
+\end{equation}
+\noindent
+wobei der Nullpunkt so gewählt ist, dass der Mittelpunkt der Helmholtzspulen in ihm liegt und der Wert x 
+der Hälfte des Abstandes der Spulen zueinander entspricht.
+
+\subsection{Hysteresekurve}
+Im Gegensatz zu Dia- und Paramagneten besitzen Paramagneten bereits ohne ein von außen angelegtes Magnetfeld
+ein permanentes magnetisches Moment. Innerhalb von sogenannten weißschen Bezirken verlaufen die magnetischen Momente
+parallel, allerdings sind diese Bereiche statistisch über den gesamten Körper verteilt und heben sich gegenseitig auf,
+sodass der Körper als ganzes kein magnetisches Feld besitzt. Wird nun ein äußeres Magnetfeld eingeschaltet, so ändert 
+sich die Ausrichtung der einzelnen magnetischen Momente und die weißschen Bezirke vergrößern sich. Das äußere Magnetfeld 
+lässt sich so weit erhöhen, bis alle magnetischen Momente die gleiche Ausrichtung aufweisen. Als Beispiel für ein
+ferromagnetisches Material lässt sich Eisen nennen.
+\noindent
+Bedingt dadurch, dass bei Ferromagneten die relative Permeabilität $\mu_r \ll 0$ ist, verliert Gleichung (VERWEIS AUF GLEICHUNG)
+ihre Gültigkeit. Um den Zusammenhang zwischen magnetischer Erregung und magnetischem Fluss dennoch darstellen zu können, wird
+eine sogenannte Hysteresekurve erstellt. Diese gibt auf der x-Achse den Wert der magnetischen Erregung und auf der y-Achse
+den Wert der magnetischen Flussdichte an. 
+Wird ein ferromagnetisches Material zum ersten Mal durch ein äußeres Magnetfeld beeinflusst, vergrößern sich, wie zuvor
+bereits erwähnt, die weißschen Bezirke, bis alle magnetischen Momente gleich ausgerichetet sind. An diesem Punkt erreicht 
+der magnetische Fluss seinen maximalen Wert. Man spricht von der sogenannten Sättigungsmagnetisierung $U_s$. Wird
+das äußere Magnetfeld nun wieder verkleinert, so ändert ein Teil der magnetischen Momente innerhalb der Ferromagneten 
+seine Ausrichtung. In Folge dessen nimmt der Wert für die magnetische Flussdichte ebenfalls ab. Ist das äußere Magnetfeld
+vollständig abgeschaltet, kann jedoch beobachtet werden, dass das ferromagnetische Material selbst trotzdem noch ein magnetisches
+Feld aufweist. Dies liegt daran, dass immernoch der überwiegende Teil der magnetischen Momente in ein und dieselbe Richtung 
+ausgerichetet ist. Dieser Wert wird auch als Remanenz bezeichnet. Es ist also zu beachten, dass die magnetische Flussdichte 
+des Ferromagneten nicht nur von dem äußeren magnetischen Feld abhängt, sondern auch von dem Verlauf seiner vorhergegangenen 
+Magnetisierung. Wenn nun ein äußeres Magnetfeld angelegt wird, welches dem ursprünglichen entgegengerichtet ist, wird der Zustand
+der statistischen Verteilung der weißschen Bezirke wiederhergestellt und das Magnetfeld des Körpers selbst verschwindet wiederum.
+Dieser Punkt auf der x-Achse wird als Koerzitivkraft bezeichnet. Wird das äußere Magnetfeld nun so weit vergrößtert, bis sich alle 
+magnetischen Momente in dem Körper wieder gleich ausgerichetet haben, weist der magnetische Fluss des Ferromagneten bis auf das Vorzeichen 
+denselben Wert  
+
+
+Symmetrisch zum Ursprung
+Vorgeschichte
+
+
+
+
+
+
+
 \cite{sample}
