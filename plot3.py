@@ -13,7 +13,8 @@ with open("tabelle1.csv", "w") as f:
     writer= csv.writer(f)
     writer.writerows(zip(xrund,yrund,Hrund))
 
-plt.plot(H[9:49],y[9:49],'r.')
+plt.plot(H[9:29],y[9:29],'r.')
+plt.plot(H[29:49],y[29:49],'k.')
 plt.plot(H[0:8],y[0:8],'.')
 plt.grid(axis='both')
 plt.xlabel(r'$H \,/\, \mathrm{A\cdot m^{-1}}$')
