@@ -6,8 +6,8 @@
 \contentsline {subsection}{\numberline {2.2}Hysteresekurve}{4}{subsection.2.2}% 
 \contentsline {section}{\numberline {3}Durchführung}{5}{section.3}% 
 \contentsline {subsection}{\numberline {3.1}Vermessung von Spulen/Magnetfeld von Spulen}{5}{subsection.3.1}% 
-\contentsline {subsection}{\numberline {3.2}Vermessung von Helmholtzspulen/Magnetfeld eines Spulenpaares}{5}{subsection.3.2}% 
-\contentsline {subsection}{\numberline {3.3}Hysteresekurve}{5}{subsection.3.3}% 
-\contentsline {section}{\numberline {4}Auswertung}{6}{section.4}% 
-\contentsline {section}{\numberline {5}Diskussion}{9}{section.5}% 
-\contentsline {section}{\nonumberline Literatur}{9}{section*.6}% 
+\contentsline {subsection}{\numberline {3.2}Vermessung von Helmholtzspulen/Magnetfeld eines Spulenpaares}{6}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Hysteresekurve}{7}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}Auswertung}{8}{section.4}% 
+\contentsline {section}{\numberline {5}Diskussion}{11}{section.5}% 
+\contentsline {section}{\nonumberline Literatur}{11}{section*.10}% 

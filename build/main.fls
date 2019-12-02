@@ -352,6 +352,8 @@ INPUT ./content/ziel.tex
 INPUT ./content/ziel.tex
 INPUT ./content/theorie.tex
 INPUT ./content/theorie.tex
+INPUT build/Bild1.png
+INPUT build/Bild1.png
 INPUT ./content/durchfuehrung.tex
 INPUT ./content/durchfuehrung.tex
 INPUT /home/nico/.local/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc
@@ -368,6 +370,14 @@ INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbol
 INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT /home/nico/.local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT build/Spule2.jpg
+INPUT build/Spule2.jpg
+INPUT build/Spule1.jpg
+INPUT build/Spule1.jpg
+INPUT build/Helmholtzspule.jpg
+INPUT build/Helmholtzspule.jpg
+INPUT build/Ringspule.jpg
+INPUT build/Ringspule.jpg
 INPUT ./content/auswertung.tex
 INPUT ./content/auswertung.tex
 INPUT ./tabelle1.csv
