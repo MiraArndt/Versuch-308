@@ -37,13 +37,7 @@
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-<<<<<<< HEAD
       \field{title}{Versuchsanleitung - Spulen und Magnetfelder}
-=======
-      \field{title}{Versuch zum Literaturverzeichnis}
-      \field{year}{2014}
-      \true{nocite}
->>>>>>> b27cea481e2c020445511c8569ca3c77ef644a4b
     \endentry
     \entry{matplotlib}{article}{}
       \name{author}{1}{}{%
@@ -72,10 +66,6 @@
       \field{version}{1.4.3}
       \field{volume}{9}
       \field{year}{2007}
-<<<<<<< HEAD
-=======
-      \true{nocite}
->>>>>>> b27cea481e2c020445511c8569ca3c77ef644a4b
       \field{pages}{90\bibrangedash 95}
       \range{pages}{6}
       \verb{urlraw}
